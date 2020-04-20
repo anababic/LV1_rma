@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jamb</string>
+    <string name="jamb">JAMB</string>
+    <string name="broj_igraca">Broj Igrača:</string>
+    <string name="igraj">Igraj</string>
+    <string name="igrac">Igrač</string>
+</resources>
